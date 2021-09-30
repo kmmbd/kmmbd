@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kazi Mahbub Mutakabbir.
-- 👀 I’m interested in Applied Machine Learning, Deep Learning, and Distributed Systems.
+- 👀 I’m interested in Applied Machine Learning, Deep Learning and I love delving deep into large-scale datasets.
 - 🌱 I’m currently studying MSc in Informatics at Technical University of Munich.
-- 💞️ I’m looking to collaborate on any interesting ML/DL projects, esp in the realm of Computational Biology.
+- 💞️ I’m looking to collaborate on any interesting applied ML/DL projects.
 - 📫 How to reach me: kazi.mahbub@tum.de
 
 <!---
